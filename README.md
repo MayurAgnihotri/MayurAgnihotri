@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayurAgnihotri
 - 👀 I’m interested in Cloud Computing.
-- 🌱 I’m currently learning Cloud Architect - Associate level courses from AWS, Azure & GCP.
+- 🌱 I’m currently learning Azure engineering.
 - 💞️ I’m looking to collaborate on Cloud platforms.
 - 📫 How to reach me >> agnihotri.mayur@gmail.com
 
